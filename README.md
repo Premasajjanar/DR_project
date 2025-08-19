@@ -37,35 +37,39 @@ Along with the model, I also built a desktop GUI using Tkinter, and used HeidiSQ
 
 📊 Visualizations
 🔹 Sample Input Image
-![visual1](images/visual1.JPG)
+![Image](https://github.com/user-attachments/assets/29e8fd00-4f0c-4382-a3fb-ca939085a14a)
 
 🔹 ResNet152 Architecture Overview
 I have only shown below the main layers of resnet and each of the 'layer1', 'layer2', 'layer3' and 'layer4' contains various more layers.      
 
-![mat](images/mat.png)
+![Image](https://github.com/user-attachments/assets/26b23101-805f-449e-8d94-895b6aa14041)
 
 
 Here are some snapshots of the GUI I developed:
 
-![gui1](c:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 194924.png)  
-![gui2](c:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 194948.png)  
-![gui3](c:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 194957.png)
-![gui4](c:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 195025.png)
-![gui5](c:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-15 195040.png)
-![gui6](c:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-08 154926.png)
+![Image](https://github.com/user-attachments/assets/237e28d7-6d08-4524-9f58-7a4e33bb10f0)
+![Image](https://github.com/user-attachments/assets/2da1545f-af86-4148-bb41-160576295b57)
+![Image](https://github.com/user-attachments/assets/da0d089d-9f43-434b-b05e-338abf67bc18)
+![Image](https://github.com/user-attachments/assets/48a0b906-4a73-4ae1-97a2-41be837621dc)
+![Image](https://github.com/user-attachments/assets/e071310b-8a4c-4ff9-a5b5-8b3aa511729d)
+![Image](https://github.com/user-attachments/assets/cac80d3b-514f-423a-add1-f09866f0ec9f)
 
 🚀 Getting Started
 Want to run this project locally?
-👉 Click here to view setup instructions
+👉 [Click here to view setup instructions](./gettingstarted.md)
 
 🧭 Project Navigation
-🧠 Model Training Code["G:\My Drive\DR_Project\Copy of training.ipynb"]
+🧠 Model Training Code[Training Notebook](./Copy%20of/training.ipynb)
 
-🔍 Single Image Inference["C:\Users\prema\OneDrive\Desktop\Project\Retinal_blindness_detection\Single_test_inference.ipynb"]
 
-🖥️ GUI Script["C:\Users\prema\OneDrive\Desktop\Project\Retinal_blindness_detection\blindness.py"]
+🔍 Single Image Inference[Open Single_test_inference.ipynb](./Single_test_inference.ipynb)
 
-🧩 Model Loader Script["C:\Users\prema\OneDrive\Desktop\Project\Retinal_blindness_detection\model.py"]
+
+🖥️ GUI Script[View blindness.py](./blindness.py)
+
+
+🧩 Model Loader Script[View model.py script](./model.py)
+
 
 💾 Pretrained Weights / Setup Guide
 
