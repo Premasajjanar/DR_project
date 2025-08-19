@@ -56,7 +56,7 @@ Here are some snapshots of the GUI I developed:
 
 🚀 Getting Started
 Want to run this project locally?
-👉 [Click here to view setup instructions](./gettingstarted.md)
+👉 [Click here to view setup instructions](./Gettingstarted.md)
 
 🧭 Project Navigation
 🧠 Model Training Code[Training Notebook](./Copy%20of/training.ipynb)
