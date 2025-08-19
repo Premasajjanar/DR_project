@@ -17,9 +17,9 @@ model/
 *.h5
 
 # Image folders
-images/
-sampleimages/
-uploaded_images/
+#images/
+#sampleimages/
+#uploaded_images/
 
 # Dataset folders
 input/
